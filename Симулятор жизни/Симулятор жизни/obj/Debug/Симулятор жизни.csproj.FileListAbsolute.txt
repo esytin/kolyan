@@ -1,0 +1,15 @@
+D:\JOB\1\Симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.exe.config
+D:\JOB\1\Симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.exe
+D:\JOB\1\Симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.pdb
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.csproj.AssemblyReference.cache
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.csproj.SuggestedBindingRedirects.cache
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор_жизни.Form1.resources
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор_жизни.Properties.Resources.resources
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.csproj.GenerateResource.cache
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.csproj.CoreCompileInputs.cache
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.exe
+D:\JOB\1\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.pdb
+D:\JOB\1\симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.exe.manifest
+D:\JOB\1\симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.application
+D:\JOB\1\симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.exe.manifest
+D:\JOB\1\симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.application
